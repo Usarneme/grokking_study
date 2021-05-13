@@ -1,4 +1,4 @@
-# Chapter 3 Notes
+# Chapter 4 Notes
 
 ## Recursion & Quicksort
 
