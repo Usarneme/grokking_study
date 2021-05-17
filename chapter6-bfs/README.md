@@ -44,10 +44,8 @@ graph["alice"] = ["dave","ella"]
 graph["bob"] = ["dave","fela"]
 ```
 
-
 #### Big O/Runtime
 
 - adding person to the queue takes O(1) so enqueueing takes O(n) where n = number of nodes/vertices
 - search time is also O(1) for each of the endges so O(n) where n = number of edges
 - total Big O is O(vertices + edges) or O(V+E)
-
